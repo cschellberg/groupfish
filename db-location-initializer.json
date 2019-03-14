@@ -1,0 +1,62 @@
+[
+	{
+		"city": "cambutal",
+		"province": "los santos",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "pedasi",
+		"province": "los santos",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "santa catalina",
+		"province": "veragua",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "boca chica",
+		"province": "chiriqui",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "isla grande",
+		"province": "colon",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "porto belo",
+		"province": "colon",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "gamboa",
+		"province": "panama este",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "coronado",
+		"province": "panama oeste",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "panama city",
+		"province": "panama este",
+		"country": "panama",
+		"active":true
+	},
+	{
+		"city": "bocas del toro",
+		"province": "bocas del toro",
+		"country": "panama",
+		"active":true
+	}
+]

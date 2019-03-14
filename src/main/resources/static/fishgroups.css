@@ -1,0 +1,23 @@
+body {
+	font: 11px "Century Gothic", Futura, sans-serif;
+	margin: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+ol, ul {
+	padding-left: 30px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid green;
+  vertical-align: top;
+  text-align: left;
+  padding:4px;
+  margin:0px;
+}
+
